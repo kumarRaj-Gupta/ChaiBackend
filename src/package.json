@@ -1,0 +1,20 @@
+{
+  "name": "chai-aur-code",
+  "version": "1.0.0",
+  "description": "backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "KR RAJ Hitesh Chaudhary YT video",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
