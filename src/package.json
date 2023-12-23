@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "node src/index.js"
+    "dev": "node src/index.js"
   },
   "keywords": [
     "javascript",
@@ -15,6 +15,7 @@
   "author": "KR RAJ Hitesh Chaudhary YT video",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
   }
 }
